@@ -1,0 +1,63 @@
+{
+    "squadName": "FREESTYLERS HISTORICOS",
+    "eslogan": "!!Muchos hablan, pocos rapean, los mejores improvisan!!",
+    
+    "members": [
+        {
+            "name": "Arkano",
+            "age": 32,
+            "realName": "Javier Bonet",
+            "titles": [
+                "2009 - Campeón Nacional de Red Bull Batalla de los Gallos España",
+                "2015 - Campeón Internacional de Red Bull Batalla de los Gallos"
+            ]
+        },
+        {
+            "name": "Chuty",
+            "age": 30,
+            "realName": "Alejandro Núñez",
+            "titles": [
+                "2017 - Campeón interacional de BIG BANG",
+                "2018 - Campeon internacional BDM ",
+                "2022 - Campeon internacional FMS  "
+            ]
+        },
+        {
+            "name": "Aczino",
+            "age": 29,
+            "realName": "Mauricio Hernández",
+            "titles": [
+                "2014 - 2015 - 2018 - 2020 - Campeón Nacional de Red Bull Batalla de los Gallos Mexico ",
+                "2017 - 2019 - 2022 Campeón Internacional de Red Bull Batalla de los Gallos"
+            ]
+        },
+        {
+            "name": "Skone",
+            "age": 28,
+            "realName": "Sergio Contreras",
+            "titles": [
+                "2016 - Campeón Nacional de Red Bull Batalla de los Gallos España",
+                "2016 - Campeón Internacional de Red Bull Batalla de los Gallos",
+                "2018 - Campeon internacional God Level"
+            ]
+        },
+        {
+            "name": "Piezas",
+            "age": 31,
+            "realName": "Eduardo Ruiz",
+            "titles": [
+                "2008 - Campeón Nacional de Red Bull Batalla de los Gallos España",
+                "2008 - Campeón Internacional de Red Bull Batalla de los Gallos"
+            ]
+        },  
+        {
+            "name": "Dtoke",
+            "age": 33,
+            "realName": "Nicolás Díaz",
+            "titles": [
+                "2015 - 2017 - Campeón Nacional de Red Bull Batalla de los Gallos Argentina",
+                "2015 - Campeón Internacional de Red Bull Batalla de los Gallos"
+            ]
+        }
+    ]
+}

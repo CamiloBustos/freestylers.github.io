@@ -1,0 +1,62 @@
+/* || general styles */
+
+html {
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-image: url('https://live.staticflickr.com/5700/22890512369_ab9aa90db3_o.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffffff;
+    width: 100%; /* Cambia el ancho a 100% para que sea responsive */
+    margin: 0;
+    padding: 0; /* Elimina el relleno por defecto del cuerpo */
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif; /* Cambia la fuente del título */
+    color: #ff0000;
+}
+
+/* header styles */
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+header p {
+    color: rgb(255, 47, 0);
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* section styles */
+
+section article {
+    width: 100%; /* Cambia el ancho de los artículos a 100% para que sean responsive */
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+section p {
+    margin: 5px 0;
+    color: #ff4000;
+}
+
+ul {
+    list-style-type: disc;
+    color: #ffa600;
+}
+
+h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+}
